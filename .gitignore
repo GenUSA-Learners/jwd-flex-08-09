@@ -10,34 +10,34 @@
 assets/
 JS/
 WEB/
-# PROG/01-codecademy/
-PROG/06-scrum/
-PROG/02-code-foundations/
-PROG/03-command-line/
-PROG/04-git/
-PROG/05-github/
-README.md
+# 01-codecademy/
+06-scrum/
+02-code-foundations/
+03-command-line/
+04-git/
+05-github/
+# README.md
 
 # WEB Development --
 # assets/
 # JS/
 # PROG/
-# WEB/01-html/
-# WEB/02-css/
-# WEB/03-bootstrap/
-# WEB/04-build-and-deploy-websites/
+# 01-html/
+# 02-css/
+# 03-bootstrap/
+# 04-build-and-deploy-websites/
 # README.md
 
 # JS Development --
 # assets/
 # PROG/
 # WEB/
-# JS/01-intro-to-js/
-# JS/02-fxns-scope-flow-arrays/
-# JS/03-dom-manipulation/
-# JS/04-oop/
-# JS/05-async-and-requests/
-# JS/06-unit-testing/
+# 01-intro-to-js/
+# 02-fxns-scope-flow-arrays/
+# 03-dom-manipulation/
+# 04-oop/
+# 05-async-and-requests/
+# 06-unit-testing/
 # README.md
 
 # Logs
