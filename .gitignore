@@ -1,8 +1,9 @@
 # Personal
 
 # PROG Development --
-# JS/
-# WEB/
+assets/
+JS/
+WEB/
 # PROG/01-codecademy/
 # PROG/06-scrum/
 # PROG/02-code-foundations/
@@ -11,6 +12,7 @@
 # PROG/05-github/
 
 # WEB Development --
+# assets/
 # JS/
 # PROG/
 # WEB/01-html/
@@ -19,6 +21,7 @@
 # WEB/04-build-and-deploy-websites/
 
 # JS Development --
+# assets/
 # PROG/
 # WEB/
 # JS/01-intro-to-js/
