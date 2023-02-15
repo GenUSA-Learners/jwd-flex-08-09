@@ -1,5 +1,11 @@
 # Personal
 
+# assets/ Development --
+# JS/
+# PROG/
+# WEB/
+# README.md
+
 # PROG Development --
 assets/
 JS/
@@ -10,6 +16,7 @@ WEB/
 # PROG/03-command-line/
 # PROG/04-git/
 # PROG/05-github/
+README.md
 
 # WEB Development --
 # assets/
@@ -19,6 +26,7 @@ WEB/
 # WEB/02-css/
 # WEB/03-bootstrap/
 # WEB/04-build-and-deploy-websites/
+# README.md
 
 # JS Development --
 # assets/
@@ -30,6 +38,7 @@ WEB/
 # JS/04-oop/
 # JS/05-async-and-requests/
 # JS/06-unit-testing/
+# README.md
 
 # Logs
 logs
