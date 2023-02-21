@@ -1,10 +1,11 @@
 # Personal
+.vscode
+.DS_Store
 
 # assets/ Development --
 # JS/
 # PROG/
 # WEB/
-# README.md
 
 # PROG Development --
 assets/
@@ -16,7 +17,6 @@ WEB/
 03-command-line/
 04-git/
 05-github/
-# README.md
 
 # WEB Development --
 # assets/
@@ -26,7 +26,6 @@ WEB/
 # 02-css/
 # 03-bootstrap/
 # 04-build-and-deploy-websites/
-# README.md
 
 # JS Development --
 # assets/
@@ -38,7 +37,6 @@ WEB/
 # 04-oop/
 # 05-async-and-requests/
 # 06-unit-testing/
-# README.md
 
 # Logs
 logs
