@@ -8,15 +8,15 @@
 # WEB/
 
 # PROG Development --
-assets/
-JS/
-WEB/
+#assets/
+#JS/
+#WEB/
 # 01-codecademy/
-06-scrum/
-02-code-foundations/
-03-command-line/
-04-git/
-05-github/
+#06-scrum/
+#02-code-foundations/
+#03-command-line/
+#04-git/
+#05-github/
 
 # WEB Development --
 # assets/
