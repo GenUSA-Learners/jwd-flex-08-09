@@ -54,6 +54,13 @@ When you need to pull new changes and activities, follow the steps below:
 
 From your `working` branch, run:
 
+(preferred)
+- `git checkout main`
+- `git pull`
+- `git checkout working`
+- `git merge main`
+
+OR (another option)
 - `git pull origin main`
 
 This should pull all the new changes into your working branch

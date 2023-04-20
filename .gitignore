@@ -3,8 +3,8 @@
 .DS_Store
 
 # assets/ Development --
-# JS/
-# PROG/
+JS/
+PROG/
 # WEB/
 
 # PROG Development --
@@ -24,8 +24,8 @@
 # PROG/
 # 01-html/
 # 02-css/
-# 03-bootstrap/
-# 04-build-and-deploy-websites/
+03-bootstrap/
+04-build-and-deploy-websites/
 
 # JS Development --
 # assets/
