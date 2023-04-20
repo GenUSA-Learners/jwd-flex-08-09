@@ -1,0 +1,43 @@
+/* css to make it easier to see */
+html {
+    background: rgb(80, 80, 128);
+}
+.flexbox-container {
+    background: rgb(207, 162, 80);
+    border: 3px solid #fffefe;
+    min-width: 500px;
+    min-height: 800px;
+    margin: 10px;
+    padding: 10px;
+}
+.flexbox-item {
+    background: rgb(83, 170, 83);
+    border: 3px solid #ffffff;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+/*
+.flexbox-container {
+
+    
+}
+
+ .flexbox-item {
+
+}
+
+.flexbox-item-1 {
+
+}
+
+ .flexbox-item-2 {
+
+}
+
+.flexbox-item-3 {
+
+}  */
+
+
