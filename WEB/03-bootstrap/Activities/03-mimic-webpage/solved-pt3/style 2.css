@@ -1,0 +1,20 @@
+ul li{
+    list-style-type: none;
+}
+
+.btn-primary {
+    background-color: rgba(234, 160, 23, 0.921);
+}
+
+#firstBtn {
+    width:120px;
+}
+
+#third {
+    color: white;
+}
+
+#info {
+    margin-top: 5em;
+    padding: 5em;
+}

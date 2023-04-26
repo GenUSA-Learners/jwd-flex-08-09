@@ -1,42 +1,6 @@
-# Personal
+# Development
 .vscode
-.DS_Store
-
-# assets/ Development --
-JS/
-PROG/
-# WEB/
-
-# PROG Development --
-#assets/
-#JS/
-#WEB/
-# 01-codecademy/
-#06-scrum/
-#02-code-foundations/
-#03-command-line/
-#04-git/
-#05-github/
-
-# WEB Development --
-# assets/
-# JS/
-# PROG/
-# 01-html/
-# 02-css/
-03-bootstrap/
-04-build-and-deploy-websites/
-
-# JS Development --
-# assets/
-# PROG/
-# WEB/
-# 01-intro-to-js/
-# 02-fxns-scope-flow-arrays/
-# 03-dom-manipulation/
-# 04-oop/
-# 05-async-and-requests/
-# 06-unit-testing/
+**/.DS_Store
 
 # Logs
 logs
