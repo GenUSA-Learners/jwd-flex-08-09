@@ -1,5 +1,15 @@
 /* remove this code and add your own! */
-.greeting {
-  color: green;
-  font-size: 30px;
+* {
+  /* border: 1px solid black; */
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  align-items: center;
+}
+aside {
+  background-color: teal;
+  color: white;
+  min-width: 10rem;
+  height: 20rem;
 }
