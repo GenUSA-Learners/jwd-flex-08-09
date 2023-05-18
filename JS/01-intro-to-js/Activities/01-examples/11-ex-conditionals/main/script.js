@@ -42,11 +42,7 @@ if (!isHydrationTime) {
 if (waterBill < 10) {
    console.log('Cost Rating: $');
 } else if (waterBill >= 10 && waterBill < 15) {
-   if (waterBill === 12) {
-      console.log('Cost Rating: a dozen');
-   } else {
-      console.log('Cost Rating: $$');
-   }
+   console.log('Cost Rating: $$$');
 } else {
    console.log('Cost Rating: $$$');
 }

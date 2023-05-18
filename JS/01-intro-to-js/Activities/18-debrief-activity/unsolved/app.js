@@ -8,7 +8,7 @@ console.log('Your JS file is linked!');
 // If value of myNumber is a multiple of 5 print 'Buzz' to the console
 // If the value of myNumber is a multiple of both 3 and 5 (ex. 15) print FizzBuzz to the console
 // If the value of myNumber is any other number print the value of myNumber to the console.
-// Reference Codecademy lessons: Introduction- Arithmetic Opertaors, Conditional Statements lessons 3, 4, 5,and 9
+// Reference Codecademy lessons: Introduction- Arithmetic Operators, Conditional Statements lessons 3, 4, 5,and 9
 
 //Write your code for FizzBuzz below this line:
 
@@ -17,7 +17,7 @@ console.log('Your JS file is linked!');
 
 //2. E-Commerce Item list
 
-// Use a swtich statement to print the price of the each item in the store to the console.
+// Use a switch statement to print the price of the each item in the store to the console.
 // Ex. If the value of the variable is 'shoes' then, the statement "Shoes are $50" should be printed to the console.
 // Reference: Codecademy lesson 10
 // Items:
