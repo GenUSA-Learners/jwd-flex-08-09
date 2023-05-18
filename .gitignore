@@ -5,15 +5,11 @@
 PROG/
 WEB/
 
-JS/02-fxns-scope-flow-arrays
 JS/03-dom-manipulation
 JS/04-oop
 JS/05-async-and-requests
 JS/06-unit-testing
 
-JS/01-intro-to-js/Activities/12-prac-conditionals/solved
-JS/01-intro-to-js/Activities/14-prac-ternary-operator/solved
-JS/01-intro-to-js/Activities/18-debrief-activity/solved
 
 
 # Logs
