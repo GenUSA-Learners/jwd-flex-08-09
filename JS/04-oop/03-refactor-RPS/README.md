@@ -11,5 +11,3 @@ Work with your group to complete this activity. Read the directions carefully an
 * Make sure to track the wins, losses, and ties for both the computer and the user
 
 * Feel free to add more functionality or switch up how things are displayed
-
-
