@@ -1,4 +1,4 @@
-# JS-3 - Object Oriented Programming
+# JS-4 - Object Oriented Programming
 
 Participants will go through an overview of Objects, Classes, Modules and browser compatibility in JavaScript.
 

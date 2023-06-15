@@ -1,4 +1,4 @@
-# JS-5 - Building Interactive Websites with DOM Manipulation
+# JS-3 - Building Interactive Websites with DOM Manipulation
 
 Participants will learn how to combine concepts learned in previous lessons - HTML, CSS, and JavaScript - to make exciting   interactive websites, by manipulating DOM.
 
