@@ -8,19 +8,18 @@ function wait(ms) {
   });
 }
 
-function finish(val) {
-  return new Promise((resolve) => {
+function finish(res) {
+  return new Promise((resolve, reject) => {
     return setTimeout(
       () =>
-        resolve(
-          val
-            ? console.log('Finished promises')
-            : console.log('Something went wrong!')
-        ),
+        res ? resolve('Finished promises') : reject('Something went wrong!'),
       0
     );
   });
 }
 
 // Call wait and pass in finish as a callback
-wait(1000).then(finish);
+wait(2000)
+  .then(finish)
+  .then((message) => console.log(message))
+  .catch((err) => console.log(err));
