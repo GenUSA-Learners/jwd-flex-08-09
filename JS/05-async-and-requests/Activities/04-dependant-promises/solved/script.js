@@ -17,7 +17,7 @@ function finish(val) {
             ? console.log('Finished promises')
             : console.log('Something went wrong!')
         ),
-      ms
+      0
     );
   });
 }
